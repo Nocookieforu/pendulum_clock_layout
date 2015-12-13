@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-09 BZR 5589)-product   date = Tuesday, October 27, 2015 'PMt' 09:26:08 PM
+
+BeginCmp
+TimeStamp = /562971A4;
+Reference = C1;
+ValeurCmp = 1000u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56302324;
+Reference = C2;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56306734;
+Reference = C3;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5629717F;
+Reference = D1;
+ValeurCmp = 1N914;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562972A8;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /562973EC;
+Reference = L1;
+ValeurCmp = COIL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56307131;
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56307338;
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /563074BD;
+Reference = P3;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56304A44;
+Reference = Q1;
+ValeurCmp = Si9933CDY;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /563018F9;
+Reference = Q2;
+ValeurCmp = MMBT3904;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56305BC1;
+Reference = Q3;
+ValeurCmp = MMBT3906;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /563046D2;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /562971DA;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /563015E2;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56301D21;
+Reference = RV1;
+ValeurCmp = 100K Linear;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /56303CA1;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+EndListe
